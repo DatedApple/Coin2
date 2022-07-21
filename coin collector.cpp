@@ -44,7 +44,7 @@ int main()
             {
                 c-=array[n-1];
             }
-        }
+        }//Cambio UwU
         cout<<d<<endl;
     }
     return 0;
