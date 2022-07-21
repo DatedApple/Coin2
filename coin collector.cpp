@@ -40,7 +40,7 @@ int main()
                 d++;
                 l=array[n-1];
             }
-            else
+            else//otro cambio OwO
             {
                 c-=array[n-1];
             }
